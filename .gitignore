@@ -1,0 +1,29 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.tmp
+tempCodeRunnerFile.cpp
+
+# Build directories
+build/
+bin/
+obj/
